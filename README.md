@@ -1,4 +1,4 @@
-### Basic course TERRAFORM 
+### Terraform basic configurations 
 
 ### 1. Commands needed for resources
 
